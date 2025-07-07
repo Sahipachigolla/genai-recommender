@@ -1,0 +1,32 @@
+[
+  {
+    "title": "LangChain",
+    "type": "Tool",
+    "description": "A framework to build LLM-based applications using components like retrieval, agents, and memory.",
+    "url": "https://www.langchain.com/"
+  },
+  {
+    "title": "LlamaIndex",
+    "type": "Tool",
+    "description": "Tool to connect LLMs to external data sources with indexing and query interface.",
+    "url": "https://www.llamaindex.ai/"
+  },
+  {
+    "title": "Mistral 7B",
+    "type": "Model",
+    "description": "A state-of-the-art open-weight language model optimized for efficiency and performance.",
+    "url": "https://mistral.ai/news/announcing-mistral-7b/"
+  },
+  {
+    "title": "Phi-3",
+    "type": "Model",
+    "description": "Microsoft’s lightweight language model focused on high performance in small sizes.",
+    "url": "https://huggingface.co/microsoft/phi-3-mini-4k-instruct"
+  },
+  {
+    "title": "RAG: Retrieval-Augmented Generation",
+    "type": "Paper",
+    "description": "Introduces a new model combining retrieval and generation for knowledge-intensive tasks.",
+    "url": "https://arxiv.org/abs/2005.11401"
+  }
+]
