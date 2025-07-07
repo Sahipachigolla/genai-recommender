@@ -1,3 +1,7 @@
+import os
+os.environ["STREAMLIT_WATCH_USE_POLLING"] = "true"
+
+
 import streamlit as st
 from recommender import recommend
 
