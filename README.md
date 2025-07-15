@@ -28,3 +28,12 @@ A smart recommendation engine that suggests GenAI tools, models, and papers base
 pip install -r requirements.txt
 python embedder.py
 streamlit run app.py
+```
+
+
+## 🙋‍♀️ Author
+
+**Pachigolla Sai Krishna Naga Sahithi**  
+Frontend Developer | API Explorer | Building Projects to Learn  
+📧 sahithipachigolla.work@gmail.com  
+🌐 [GitHub](https://github.com/sahipachigolla)
